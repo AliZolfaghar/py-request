@@ -1,0 +1,1 @@
+curl -X POST -F 'username=khososisazi' -F 'password=Z@bv5ftwvp' https://api.sejam.ir:8080/v1.1/accessToken
